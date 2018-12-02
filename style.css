@@ -1,0 +1,32 @@
+#container{
+width: 1400;
+margin-left:50;
+
+}
+
+
+#header{
+background-color: #4e54c8;
+text-align: center
+
+}
+
+#content{
+	padding:10;
+}
+
+#nav{
+	width:200;
+	float:left;
+}
+#main{
+	width:1100;
+	float:right;
+	background-color:#a8c0ff
+}
+#footer{
+	clear:both;
+	padding:10;
+	text-color:white
+	background-color:#9999
+}

@@ -1,0 +1,4 @@
+50*50 image===>32  3*3 filter==>relu(activaation function)==>50*50 image 32 actiovation map ==>3*3 filter (32) and relu activation
+48*48 image ===>maxpooling==>24*24 image 
+drop out
+flatten (24*24*32) paramatears
